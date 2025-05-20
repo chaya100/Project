@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "Diet.Controllers.UserController",
+    "Method": "CalculateSimplex",
+    "RelativePath": "api/User/CalculateSimplex/{age}/{weight}/{height}/{isman}/{Lifestyle}/{purpose}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "weight",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "height",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "isman",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      },
+      {
+        "Name": "Lifestyle",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "purpose",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Diet.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Diet.WeatherForecast, Diet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\diet\\diet\\repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\extensionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\services\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\services\\constraintsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\services\\constraintsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\interface\\iconstraintsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\interface\\iconstraintsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\interface\\iselectcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\interface\\iselectcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\services\\selectcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\services\\selectcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\diet\\diet\\repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\diet\\diet\\repository\\entities\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\diet\\diet\\repository\\repositories\\selectctegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6589B1-31EF-4EB1-81E4-4A30BB0A1C48}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\selectctegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|c:\\users\\user1\\desktop\\diet\\diet\\service\\services\\simplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01491711-04A6-4E35-A385-759B71FB8E74}|Service\\Service.csproj|solutionrelative:service\\services\\simplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6AC852-32AA-4A63-BA45-2711B24F73B3}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\diet\\diet\\mock\\dietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6AC852-32AA-4A63-BA45-2711B24F73B3}|Mock\\Mock.csproj|solutionrelative:mock\\dietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6AC852-32AA-4A63-BA45-2711B24F73B3}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\diet\\diet\\mock\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6AC852-32AA-4A63-BA45-2711B24F73B3}|Mock\\Mock.csproj|solutionrelative:mock\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:04:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:58:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Interface\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Interface\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interface\\IContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:49:54.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Entities\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Entities\\FoodItem.cs",
+              "RelativeToolTip": "Repository\\Entities\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:48:14.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Mock\\FoodItem.cs",
+              "RelativeDocumentMoniker": "Mock\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Mock\\FoodItem.cs",
+              "RelativeToolTip": "Mock\\FoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:47:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DietDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Mock\\DietDbContext.cs",
+              "RelativeDocumentMoniker": "Mock\\DietDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Mock\\DietDbContext.cs",
+              "RelativeToolTip": "Mock\\DietDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:45:21.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Program.cs",
+              "RelativeToolTip": "..\\..\\\u05EA\u05D9\u05E7\u05D5\u05DF\\Diet\\Diet\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:42:20.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Repositories\\ExtensionRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ExtensionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:03:35.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectCtegory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Repositories\\SelectCtegory.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SelectCtegory.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Repository\\Repositories\\SelectCtegory.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SelectCtegory.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:02:23.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Simplex.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\Simplex.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Simplex.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\Simplex.cs",
+              "RelativeToolTip": "Service\\Services\\Simplex.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:09:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\SelectCategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SelectCategoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\SelectCategoryService.cs",
+              "RelativeToolTip": "Service\\Services\\SelectCategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:09:14.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISelectCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Interface\\ISelectCategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\ISelectCategoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Interface\\ISelectCategoryService.cs",
+              "RelativeToolTip": "Service\\Interface\\ISelectCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:08:59.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConstraintsServices.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Interface\\IConstraintsServices.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IConstraintsServices.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Interface\\IConstraintsServices.cs",
+              "RelativeToolTip": "Service\\Interface\\IConstraintsServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:08:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Services\\ExtensionService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:55:44.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConstraintsServices.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\ConstraintsServices.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ConstraintsServices.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\Diet\\Diet\\Service\\Services\\ConstraintsServices.cs",
+              "RelativeToolTip": "Service\\Services\\ConstraintsServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:44:00.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

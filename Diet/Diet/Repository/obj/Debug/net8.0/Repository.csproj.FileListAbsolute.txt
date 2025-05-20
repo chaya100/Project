@@ -1,0 +1,78 @@
+C:\Users\user\Pictures\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\user\Pictures\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Pictures\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Pictures\דיאטה\Diet\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\user\Desktop\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\user\Desktop\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Desktop\דיאטה\Diet\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Desktop\דיאטה\Diet\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.dll
+D:\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\user1\Desktop\תיקון\Diet\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\תיקון\Diet\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Repository\obj\Debug\net8.0\ref\Repository.dll

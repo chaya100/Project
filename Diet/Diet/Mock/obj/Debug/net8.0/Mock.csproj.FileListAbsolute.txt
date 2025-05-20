@@ -1,0 +1,87 @@
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Mock\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\user\Pictures\דיאטה\Diet\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\user\Desktop\דיאטה\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+D:\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.dll
+D:\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+D:\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Mock\obj\Debug\net8.0\ref\Mock.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Mock.deps.json
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Mock.runtimeconfig.json
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Mock\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.csproj.Up2Date
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\refint\Mock.dll
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\Mock.genruntimeconfig.cache
+C:\Users\user1\Desktop\תיקון\Diet\Mock\obj\Debug\net8.0\ref\Mock.dll

@@ -1,0 +1,9 @@
+body {
+    
+    text-align: right; /* ישור טקסט לימין */
+}
+.box{
+    width: '50%';
+    text-align: 'right';
+    direction: 'rtl'
+}

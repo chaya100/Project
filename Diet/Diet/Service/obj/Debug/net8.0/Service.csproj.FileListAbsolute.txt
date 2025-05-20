@@ -1,0 +1,98 @@
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Service.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Mock.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Mock.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user\Pictures\דיאטה\Diet\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Service.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Mock.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Mock.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\user\Desktop\דיאטה\Diet\Service\obj\Debug\net8.0\ref\Service.dll
+D:\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.dll
+D:\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+D:\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\מעודכן אחרון בעזה\Diet\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\‏‏מעודכן אחרון בעזה - עותק (2)\Diet\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Service.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\DTO.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Mock.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\DTO.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Mock.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\user1\Desktop\תיקון\Diet\Service\obj\Debug\net8.0\ref\Service.dll
